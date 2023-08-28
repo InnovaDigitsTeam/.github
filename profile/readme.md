@@ -1,4 +1,4 @@
-![Alt text](logo-dark.png)
+![Alt text](logo.png)
 
 
 # InnovaDigits Technical Team 
